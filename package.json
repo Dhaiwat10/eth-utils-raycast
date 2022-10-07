@@ -34,6 +34,12 @@
       "title": "Hexstring Converter",
       "description": "Hexadecimal to decimal converter.",
       "mode": "view"
+    },
+    {
+      "name": "sha256",
+      "title": "SHA256 Generator",
+      "description": "SHA256 online hash function",
+      "mode": "view"
     }
   ],
   "dependencies": {
