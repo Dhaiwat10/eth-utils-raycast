@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "eth-utils",
   "title": "Eth Utils",
-  "description": "Raycast port of eth-utils.com",
+  "description": "Handy utility functions and tools for Ethereum users.",
   "icon": "command-icon.png",
   "author": "Dhaiwat10",
   "categories": [
