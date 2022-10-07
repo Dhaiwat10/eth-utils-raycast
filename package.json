@@ -22,6 +22,12 @@
       "title": "Checksum Address",
       "description": "Convert an address to checksummed address",
       "mode": "view"
+    },
+    {
+      "name": "keccak256",
+      "title": "Keccak-256 Converter",
+      "description": "Keccak-256 online hash function.",
+      "mode": "view"
     }
   ],
   "dependencies": {
