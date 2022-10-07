@@ -36,6 +36,7 @@ const Command = () => {
         </ActionPanel>
       }
     >
+      <Form.Description text="Convert an Ethereum address to a checksummed address." />
       <Form.TextField id="inputAddress" title="Address" placeholder="0x123..." />
     </Form>
   );

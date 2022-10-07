@@ -24,6 +24,7 @@ const Command = () => {
         </ActionPanel>
       }
     >
+      <Form.Description text="Keccak-256 hash function." />
       <Form.TextField
         id="inputValue"
         title="Input String/Number"
