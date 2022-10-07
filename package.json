@@ -28,6 +28,12 @@
       "title": "Keccak-256 Converter",
       "description": "Keccak-256 online hash function.",
       "mode": "view"
+    },
+    {
+      "name": "hexstring",
+      "title": "Hexstring Converter",
+      "description": "Hexadecimal to decimal converter.",
+      "mode": "view"
     }
   ],
   "dependencies": {
