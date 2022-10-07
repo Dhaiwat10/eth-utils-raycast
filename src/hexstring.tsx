@@ -28,6 +28,7 @@ const Command = () => {
 
   return (
     <Form>
+      <Form.Description text="Hexadecimal to decimal converter." />
       <Form.TextField
         id="hexValue"
         title="Hex Value"
